@@ -1,0 +1,79 @@
+body {
+    color: #ffffff;
+    background-color: #252839;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 20px;
+    margin: 0px 4% 0px 4%;
+}
+p {
+    margin: 30px 5px 30px 30px;
+    text-align: center;
+}
+a {
+    color: #252839;
+}
+ul {
+    width: 70%;
+    margin: auto;
+}
+.portrait {
+    border-radius: 50%;
+    margin: 30px 0px 30px 0px;
+    padding: 0px 20% 0px 20%;
+    max-width: 80%;
+    height: auto;
+}
+
+.text-container {
+    background-color: #b5b5b7;
+    margin: 20px 0px 20px 0px;
+}
+.my-jumbo {
+    margin-top: 100px;
+    background-color: #b5b5b7 !important;
+    border-radius: 0px !important;
+}
+
+.jumbo-project {
+    background-color: #677077 !important;
+    border-radius: 0px !important;
+}
+
+.navbar-active {
+    color: #677077 !important;
+}
+.navbar-passive {
+    color: white !important;
+}
+
+.img-portfolio {
+    vertical-align: middle;
+    border: 10px solid black;
+    border-color: #b5b5b7 !important;
+    max-width: 100%;
+    height: auto;
+}
+.img-container {
+
+}
+
+.main-text {
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.label-text {
+    text-align: center;
+    color: #ffffff;
+
+}
+
+.linkedin {
+    align: left;
+}
+
+.github {
+    align: right;
+}
